@@ -1,17 +1,25 @@
-def find_pairs(arr, target):
-    pairs = []
+# Python Program for Denomination
 
-    # Iterate over all possible pairs of elements
-    for i in range(len(arr)):
-        for j in range(i + 1, len(arr)):
-            if arr[i] + arr[j] == target:
-                pairs.append((arr[i], arr[j]))
+def calculate_denominations(amount, denominations):
+    denomination_counts = {}
+    for denom in denominations:
+        if amount >= denom:
+            denomination_counts[denom] = amount // denom
+            amount %= denom
+        else:
+            denomination_counts[denom] = 0
+    return denomination_counts
 
-    return pairs
+# Input
+amount = int(input("Enter the total amount: "))
+denominations = [2000, 500, 200, 100, 50, 10, 5, 2, 1]
 
-# Example usage
-arr = [2, 4, 5, 3, 6, 8]
-target = 9
-result = find_pairs(arr, target)
-print("Pairs that sum up to", target, "are:", result)
+# Calculate denominations
+result = calculate_denominations(amount, denominations)
+
+# Output
+print("Denomination breakdown:")
+for denom, count in result.items():
+    if count > 0:
+        print(f"{denom} : {count}")
 
