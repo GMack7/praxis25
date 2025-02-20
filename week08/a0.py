@@ -1,8 +1,6 @@
 DENOMINATIONS = [100,20,10,5,1,0.25,0.1,0.05,0.01]
 
 def change(cost, payment):
-    if cost - payment > 0: 
-        return None
     change = []
     remaining_change = payment - cost
     for denomination in DENOMINATIONS:
