@@ -90,5 +90,8 @@ with open('week10/icebreaker.json', mode="w") as jsonfile:
 with open('week10/icebreaker.json', mode="r") as jsonfile:
     datadict = json.load(jsonfile)
 
+# Print "Names:" as Label 
+# Single string ", " as separator
+# Use .join, the name of the dictionary and name key 
 print("Names:", ", ".join(datadict["names"]))
 
