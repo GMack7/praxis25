@@ -90,7 +90,5 @@ with open('week10/icebreaker.json', mode="w") as jsonfile:
 with open('week10/icebreaker.json', mode="r") as jsonfile:
     datadict = json.load(jsonfile)
 
-for questions in datadict["questions"]:
-    print(f"    {questions}")
-
+print("Names:", ", ".join(datadict["names"]))
 
