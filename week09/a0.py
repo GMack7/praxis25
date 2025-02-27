@@ -43,6 +43,8 @@ for block in dialogue_blocks:
 
     # Identify the speaker (uppercase followed by a period)
     # searches for a pattern at beginning of string
+    # r indicates a raw string literal. It prevents Python from interpreting 
+    # backslashes as escape sequences
     # ^ means starts with; [] list of characters, special characters become literal
     # inside the set, so + means one or more occurences of the preceding character
     # \. denotes literal period at end of name
