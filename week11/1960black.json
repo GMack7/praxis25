@@ -1,0 +1,344 @@
+[
+    {
+        "Area Name": "TRACT 18 PT ORLANDO DIV",
+        "White": 2634,
+        "Black": 7766,
+        "Other Races": 4
+    },
+    {
+        "Area Name": "TRACT 5 ORLANDO CITY",
+        "White": 9,
+        "Black": 5988,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 6 ORLANDO CITY",
+        "White": 1873,
+        "Black": 5026,
+        "Other Races": 3
+    },
+    {
+        "Area Name": "TRACT 4 ORLANDO CITY",
+        "White": 241,
+        "Black": 4386,
+        "Other Races": 4
+    },
+    {
+        "Area Name": "TRACT 34 WINTER PARK DIV",
+        "White": 1644,
+        "Black": 3658,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 52 APOKA DIV",
+        "White": 2945,
+        "Black": 2225,
+        "Other Races": 19
+    },
+    {
+        "Area Name": "TRACT 44 WINDERMERE DIV",
+        "White": 1876,
+        "Black": 1836,
+        "Other Races": 7
+    },
+    {
+        "Area Name": "TRACT 48 WINTER GARDEN DIV",
+        "White": 2550,
+        "Black": 1832,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 49 TANGERINE ZELLWOOD DIV",
+        "White": 2660,
+        "Black": 1366,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 54 LAKE MAITLAND DIV",
+        "White": 3120,
+        "Black": 1306,
+        "Other Races": 1
+    },
+    {
+        "Area Name": "TRACT 46 WINTER GARDEN DIV",
+        "White": 2121,
+        "Black": 1161,
+        "Other Races": 4
+    },
+    {
+        "Area Name": "TRACT 51 APOKA DIV",
+        "White": 2500,
+        "Black": 1068,
+        "Other Races": 10
+    },
+    {
+        "Area Name": "TRACT 42 TAFT DIV",
+        "White": 3942,
+        "Black": 480,
+        "Other Races": 8
+    },
+    {
+        "Area Name": "TRACT 29 WINDERMERE DIV",
+        "White": 5228,
+        "Black": 163,
+        "Other Races": 21
+    },
+    {
+        "Area Name": "TRACT 55 LAKE MAITLAND DIV",
+        "White": 2084,
+        "Black": 146,
+        "Other Races": 1
+    },
+    {
+        "Area Name": "TRACT 41 ORLANDO S E DIV",
+        "White": 2869,
+        "Black": 128,
+        "Other Races": 3
+    },
+    {
+        "Area Name": "TRACT 1 ORLANDO CITY",
+        "White": 1214,
+        "Black": 67,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 33 KILARNEY-FAIRVIEW SHORES",
+        "White": 12112,
+        "Black": 61,
+        "Other Races": 27
+    },
+    {
+        "Area Name": "TRACT 17 PT ORLANDO SOUTH DIV",
+        "White": 3917,
+        "Black": 56,
+        "Other Races": 6
+    },
+    {
+        "Area Name": "TRACT 30 OCOEE DIV",
+        "White": 2233,
+        "Black": 56,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 24 PT APOPKA DIV",
+        "White": 4414,
+        "Black": 52,
+        "Other Races": 24
+    },
+    {
+        "Area Name": "TRACT 50 APOKA DIV",
+        "White": 4130,
+        "Black": 50,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 19 PT PINECASTLE DIV",
+        "White": 12914,
+        "Black": 41,
+        "Other Races": 11
+    },
+    {
+        "Area Name": "TRACT 43 TAFT DIV",
+        "White": 6511,
+        "Black": 41,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 35 WINTER PARK DIV",
+        "White": 2867,
+        "Black": 33,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 26 PT PINECASTEL DIV",
+        "White": 9552,
+        "Black": 28,
+        "Other Races": 7
+    },
+    {
+        "Area Name": "TRACT 3 ORLANDO CITY",
+        "White": 3432,
+        "Black": 9,
+        "Other Races": 5
+    },
+    {
+        "Area Name": "TRACT 45 WINTER GARDEN DIV",
+        "White": 2219,
+        "Black": 7,
+        "Other Races": 1
+    },
+    {
+        "Area Name": "TRACT 8 ORLANDO CITY",
+        "White": 6599,
+        "Black": 6,
+        "Other Races": 11
+    },
+    {
+        "Area Name": "TRACT 36 WINTER PARK DIV",
+        "White": 3619,
+        "Black": 6,
+        "Other Races": 6
+    },
+    {
+        "Area Name": "TRACT 38 APOKA DIV",
+        "White": 4985,
+        "Black": 6,
+        "Other Races": 18
+    },
+    {
+        "Area Name": "TRACT 16 PT WINDERMERE DIV",
+        "White": 2660,
+        "Black": 4,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 27 PINECASTLE DIV",
+        "White": 6007,
+        "Black": 4,
+        "Other Races": 11
+    },
+    {
+        "Area Name": "TRACT 37 WINTER PARK DIV",
+        "White": 5350,
+        "Black": 4,
+        "Other Races": 4
+    },
+    {
+        "Area Name": "TRACT 57 EAST ORANGE DIV",
+        "White": 3974,
+        "Black": 4,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 15 PT ORLANDO DIV",
+        "White": 3933,
+        "Black": 3,
+        "Other Races": 5
+    },
+    {
+        "Area Name": "TRACT 9 ORLANDO CITY",
+        "White": 2353,
+        "Black": 2,
+        "Other Races": 6
+    },
+    {
+        "Area Name": "TRACT 14 PT ORLANDO DIV",
+        "White": 3441,
+        "Black": 2,
+        "Other Races": 11
+    },
+    {
+        "Area Name": "TRACT 22 PT ORLANDO DIV",
+        "White": 3711,
+        "Black": 2,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 28 PINECASTLE DIV",
+        "White": 3476,
+        "Black": 2,
+        "Other Races": 1
+    },
+    {
+        "Area Name": "TRACT 31 PINECASTLE DIV",
+        "White": 4276,
+        "Black": 2,
+        "Other Races": 10
+    },
+    {
+        "Area Name": "TRACT 7 PT PINECASTLE DIV",
+        "White": 2656,
+        "Black": 1,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 13 PT ORLANDO DIV",
+        "White": 5508,
+        "Black": 1,
+        "Other Races": 8
+    },
+    {
+        "Area Name": "TRACT 21 ORLANDO CITY",
+        "White": 6926,
+        "Black": 1,
+        "Other Races": 1
+    },
+    {
+        "Area Name": "TRACT 32 PT KILARNEY-FAIRVIEW SHORES",
+        "White": 2358,
+        "Black": 1,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 39 APOKA DIV",
+        "White": 4679,
+        "Black": 1,
+        "Other Races": 7
+    },
+    {
+        "Area Name": "TRACT 2 ORLANDO CITY",
+        "White": 4866,
+        "Black": 0,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 10 ORLANDO CITY",
+        "White": 4010,
+        "Black": 0,
+        "Other Races": 16
+    },
+    {
+        "Area Name": "TRACT 11 PT ORLANDO DIV",
+        "White": 3195,
+        "Black": 0,
+        "Other Races": 8
+    },
+    {
+        "Area Name": "TRACT 12 PT ORLANDO DIV",
+        "White": 4781,
+        "Black": 0,
+        "Other Races": 3
+    },
+    {
+        "Area Name": "TRACT 20 PT KILARNEY-FAIRVIEW SHORES",
+        "White": 4249,
+        "Black": 0,
+        "Other Races": 0
+    },
+    {
+        "Area Name": "TRACT 23 ORLANDO CITY",
+        "White": 3642,
+        "Black": 0,
+        "Other Races": 15
+    },
+    {
+        "Area Name": "TRACT 25 PT APOPKA DIV",
+        "White": 3560,
+        "Black": 0,
+        "Other Races": 2
+    },
+    {
+        "Area Name": "TRACT 40 PT APOPKA DIV",
+        "White": 4460,
+        "Black": 0,
+        "Other Races": 7
+    },
+    {
+        "Area Name": "TRACT 47 OCOEE DIV",
+        "White": 2627,
+        "Black": 0,
+        "Other Races": 1
+    },
+    {
+        "Area Name": "TRACT 53 LOCKHART DIV",
+        "White": 5201,
+        "Black": 0,
+        "Other Races": 12
+    },
+    {
+        "Area Name": "TRACT 56 EAST ORANGE DIV",
+        "White": 3192,
+        "Black": 0,
+        "Other Races": 4
+    }
+]
